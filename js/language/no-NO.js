@@ -31,7 +31,7 @@ window.calendar_languages['sv-SE'] = {
 	m8:  'September',
 	m9:  'Oktober',
 	m10: 'November',
-	m11: 'December',
+	m11: 'Desember',
 
 	ms0:  'Jan',
 	ms1:  'Feb',
@@ -44,7 +44,7 @@ window.calendar_languages['sv-SE'] = {
 	ms8:  'Sep',
 	ms9:  'Okt',
 	ms10: 'Nov',
-	ms11: 'Dec',
+	ms11: 'Des',
 
 	d0: 'Søndag',
 	d1: 'Mandag',
